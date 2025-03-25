@@ -6,5 +6,5 @@ for sklep, rzeczy in zakupy.items():
 zakupy_piekarnia = zakupy["piekarnia"]
 zakupy_warzywniak = zakupy["warzywniak"]
 suma = len(zakupy_piekarnia)+len(zakupy_warzywniak)
-print(f"W sumie kupuję {suma} produktów")
+print(f"W sue kupuję {suma} produktów")
 print("kurs jest trochę chaotyczny")
