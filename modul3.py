@@ -8,3 +8,4 @@ zakupy_warzywniak = zakupy["warzywniak"]
 suma = len(zakupy_piekarnia)+len(zakupy_warzywniak)
 print(f"W sue kupuję {suma} produktów")
 print("kurs jest trochę chaotyczny")
+print("koemndy do maca jako default")
